@@ -7,3 +7,6 @@ Tools
 IAC : Terraform
 
 Using terraform to build EKS cluster
+
+
+still creating... it will take complete day 
